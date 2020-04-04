@@ -1,2 +1,2 @@
-# 2020-SOLID-Liskov
-Principio de Sustitución de Liskov (LSP) 
+# 2020-SOLID-OpenClosed
+2020-SOLID-OpenClosed
